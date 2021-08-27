@@ -1,0 +1,19 @@
+{
+  "name": "eleventy-plugin-shopify-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0-canary",
+    "dotenv": "^8.2.0",
+    "eleventy-plugin-shopify": "^0.0.3"
+  }
+}
